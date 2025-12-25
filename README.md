@@ -1,6 +1,6 @@
 # Server Extension
 
-[![Banner](PublicationContent/mutbanner.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)
+
 
 [![Steam Workshop](https://img.shields.io/static/v1?message=workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)
 [![Steam Downloads](https://img.shields.io/steam/downloads/2085786712)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)
